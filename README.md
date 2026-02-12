@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=erequena81&show_icons=true&hide_title=true" />
+  <img src="https://raw.githubusercontent.com/erequena81/erequena81/main/assets/banner.png" alt="Banner" width="100%" />
 </p>
 
 <h3 align="center">IT Manager → Cybersecurity (Blue Team / SOC)</h3>
